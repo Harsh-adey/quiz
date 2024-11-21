@@ -1,6 +1,0 @@
-abcd,12345,lnct,abbaa
-stacy,stace12,lnct,hello
-abcd,123,lnct,ijode
-ishoas,odhodh,dioihdoihd,idhoidh
-diia,aa,a,a
-a,a,a,a
